@@ -1,0 +1,4 @@
+interface:
+  display_name: "Network Sysadmin Optimizer"
+  short_description: "Maintain and optimize network hosts"
+  default_prompt: "Use $network-sysadmin-optimizer to perform a safe maintenance routine on the specified Windows or Linux hosts."
