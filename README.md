@@ -10,6 +10,8 @@ This repository is a content repo, not an application. It contains Markdown agen
 .
 ├── network-sysadmin-optimizer/
 │   └── network-sysadmin-optimizer.md
+├── psych-pro/
+│   └── psych-pro.md
 ├── soc-engineer/
 │   └── homelab-soc-engineer.md
 └── README.md
@@ -28,6 +30,12 @@ Path: `network-sysadmin-optimizer/network-sysadmin-optimizer.md`
 Home-lab SOC and defensive security agent for Wazuh-based alert triage, vulnerability review, host investigation, and incident-response style reporting across a LAN environment.
 
 Path: `soc-engineer/homelab-soc-engineer.md`
+
+### `psych-pro`
+
+Comprehensive psychological analysis agent combining structured personality profiling with depth-psychological (Sherlock-Holmes-meets-Freud) unconscious pattern analysis. Orchestrates two skills — `psych-profiler` and `sherlock-freud-mind-modeler` — from the [LLM_Skills](https://github.com/OmriH-Elister/LLM_Skills) repo, both adapted from [Fabric](https://github.com/danielmiessler/fabric) patterns (see those skills' Attribution sections for credit and license details).
+
+Path: `psych-pro/psych-pro.md`
 
 ## How To Use
 
